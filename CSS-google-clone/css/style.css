@@ -1,0 +1,69 @@
+
+.logo{
+    text-align: center;
+}
+.container{
+    width: 1200px;
+    height: 60px;
+    background-color: rgb(236, 234, 234);
+    margin: auto;
+}
+.container>article{
+    text-align: center;
+}
+.container>article>p{
+    padding: 0;
+    margin: 0;
+}
+section{
+    width: 1200px;
+    height: 80px;
+    margin: auto;
+}
+section>.card-1{
+    float: left;
+    width: 410px;
+    background-color:rgb(109, 223, 185);
+    text-align: center;
+    margin-top: 3px;
+    padding: 10px;
+}
+section>.card-1>p{
+    margin: 0;
+}
+
+section>.card-2{
+    width: 250px;
+    padding: 1px;
+    background-color: aquamarine;
+    float: left;
+    margin-top: 3px;
+    margin-left: 3px;
+    text-align: center;
+    
+}
+section>.card-2>a{
+    font-size: 13px;
+    
+    
+}
+section>.card-3{
+    width: 512px;
+    float: left;
+    background-color: rgb(48, 219, 162);
+    margin-top: 3px;
+    margin-left: 3px;
+    text-align: center;
+    padding: 0;
+}
+section>.card-3>p{
+    margin: 0;
+    font-size: 13px;
+}
+
+footer{
+    text-align: center;
+}
+footer>p{
+    font-size: 13px;
+}
