@@ -1,0 +1,36 @@
+*{
+    text-align: center;
+    padding: 0;
+}
+
+h1{
+    color: rgb(65, 182, 65);
+}
+
+h3{
+    color: chocolate;
+}
+
+h4{
+    color: rgb(233, 103, 103);
+}
+ul{
+    list-style-type: none;
+}
+
+ul>li{
+   display: inline-block;
+   margin: 10px;
+   font-size: 18px;
+  
+}
+
+a{
+    text-decoration: none;
+    color: grey;
+}
+
+img{
+    width: 200px;
+    height: 150px;
+}
